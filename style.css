@@ -33,10 +33,10 @@ header{
 }
 .icon_cont{
 	width: 10%;
-	height:55%;
+	height:60%;
 }
 nav{
-	height: 70%;
+	height: 60%;
 	width: 80%;
 	display: flex;
 	flex-direction: row;
