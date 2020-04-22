@@ -18,6 +18,10 @@ header{
 	grid-column: 1/2;
 	background: #2618B1;
 }
+.icon_cont{
+	width: 10%;
+	height:100%;
+}
 nav{
 	height: 100%;
 	width: 100%;
