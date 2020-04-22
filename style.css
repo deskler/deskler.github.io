@@ -27,6 +27,7 @@ header{
 	grid-column: 1/2;
 	background: #2618B1;
 	display: flex;
+	color: #dedede;
 	flex-direction: row;
 	justify-content: space-between;
 	align-items: center;
