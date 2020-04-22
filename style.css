@@ -17,6 +17,10 @@ header{
 	grid-row: 1/2;
 	grid-column: 1/2;
 	background: #2618B1;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
 }
 .icon_cont{
 	width: 10%;
@@ -24,7 +28,7 @@ header{
 }
 nav{
 	height: 100%;
-	width: 90%;
+	width: 80%;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
